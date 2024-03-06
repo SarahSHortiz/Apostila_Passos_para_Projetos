@@ -13,7 +13,7 @@ Apostila explicando os primeiros passos antes de se iniciar a codar um projeto, 
 
 - World - Microsoft Office.
 
-- Lucidchart - UML Software.
+- Lucidchart ou Drawio - UML Software.
 
 - Canva - Criação de Conteúdos Gráficos.
 
