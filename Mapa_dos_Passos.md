@@ -3,8 +3,8 @@
 **1. Definir tema**;  
 **2. Refinar tema**;
 **3. Pesquisar sobre**;
-**4. Ver complexidade**;  
-**5. Eliminatória de tema**;  
+**4. Ver complexidade**;
+**5. Eliminatória de tema**;
 **6. Definir tema real**;
 **7. Iniciar pesquisa**;
 **8. Ver exemplos e brainstorm do tema**;
